@@ -16,5 +16,5 @@ The dataset consists of 6,000 images of plants. The images are classified into 3
 - Unknown
 
 # Model
-The model is a pretrained ResNet50 model with the final layer replaced with a linear layer with 3 outputs. The model is trained on the dataset and achieves an accuracy of 99.5% on the test set.
+The model is a pretrained ResNet50 model with the final layer replaced with a linear layer with 3 outputs. The model is trained on the dataset. 
 
